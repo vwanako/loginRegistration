@@ -3,5 +3,6 @@
 
 void receive_information();
 void save_to_file();
+void register_account();
 
 #endif // REGISTRATION_H
